@@ -3,7 +3,7 @@
 # Iris Spoofing Detection 
 
 ###.... previous code.... 
-##. same as the "fiter.py"
+##. same as the "OpenSourceIrisPAD-master\python\filter.py"
 
 import os
 
